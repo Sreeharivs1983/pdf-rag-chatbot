@@ -54,3 +54,29 @@ Similarity Filtering
     Groq LLM
         ↓
  Grounded Answer
+
+
+## Technologies
+
+- Python
+- FAISS
+- LangChain
+- Hugging Face Sentence Transformers
+- Groq GPT-OSS 20B
+- PyPDF
+- NumPy
+- Streamlit
+
+
+## Key Concepts
+
+- Retrieval-Augmented Generation (RAG)
+- Semantic Search
+- Vector Embeddings
+- FAISS Vector Database
+- Query Rewriting
+- Conversational Retrieval
+- Similarity Filtering
+- Context-Grounded LLM Generation
+
+
