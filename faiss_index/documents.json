@@ -1,0 +1,352 @@
+[
+  {
+    "page_content": "TECHNOVA SOLUTIONS PVT. LTD.\n MASTER COMPANY KNOWLEDGE BASE\n Founder: Sreehari V S\nCompany Knowledge Handbook for the AI Company Knowledge Assistant.\n Version 3.0  2026",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 1
+    }
+  },
+  {
+    "page_content": "1. Company Identity and Overview\nLegal Name\nTechNova Solutions Pvt. Ltd.\nShort Name\nTechNova\nCompany Type\nPrivate limited software and technology company.\nFounded\n2019.\nFounder\nSreehari V S.\nHeadquarters\nKochi, Kerala, India.\nOther Offices\nBengaluru, Karnataka and Pune, Maharashtra.\nIndustry\nInformation Technology, Software Development, Artificial Intelligence, Cloud Computing, Data Analytics, and SaaS.\nCompany Size\nApproximately 250 employees in the 2026 company profile.\nMission",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "Mission\nTo build practical, reliable technology that helps organizations automate work, understand data, and deliver better\ndigital services.\nVision\nTo become a trusted technology partner for organizations adopting cloud, AI, and intelligent software systems.\nTagline\nBuild Smart. Scale Securely.\nCore Values\nCustomer focus, ownership, continuous learning, collaboration, transparency, engineering excellence, security, and\nresponsible AI.\nOfficial Website",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "responsible AI.\nOfficial Website\nTechNova's company website is maintained by the organization and provides product, career, and contact\ninformation.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 2
+    }
+  },
+  {
+    "page_content": "2. Founder and Leadership\nFounder — Sreehari V S\nSreehari V S founded TechNova Solutions Pvt. Ltd. in 2019. He established the company around software\nengineering, artificial intelligence, cloud computing, and practical business automation.\nFounder Background\nSreehari V S has a technical background in computer science and software development and promotes\nengineering-led product development.\nChief Executive Officer\nSreehari V S serves as the Founder and Chief Executive Officer.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "Chief Technology Officer\nAnanya Krishnan leads engineering architecture, platform development, and technical strategy.\nChief Operating Officer\nVivek Nair oversees business operations, delivery, and internal processes.\nHead of AI\nDr. Meera Menon leads machine learning, generative AI, NLP, and AI research initiatives.\nLeadership Principle\nTechNova leadership emphasizes measurable customer value, secure engineering practices, employee learning,\nand responsible deployment of AI.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 3
+    }
+  },
+  {
+    "page_content": "3. Business Areas and Services\nSoftware Product Development\nTechNova develops web, mobile, cloud, and enterprise software products.\nArtificial Intelligence\nServices include machine learning, natural language processing, document intelligence, semantic search,\ngenerative AI, recommendation systems, and predictive analytics.\nCloud Solutions\nTechNova provides cloud migration, cloud-native application development, containerization, deployment\nautomation, and cloud monitoring.\nData Analytics",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "automation, and cloud monitoring.\nData Analytics\nThe company develops dashboards, reporting systems, data pipelines, analytics platforms, and business\nintelligence solutions.\nFull-Stack Development\nEngineering teams build frontend and backend applications using modern web technologies and REST or GraphQL\nAPIs.\nConsulting\nTechnology consulting includes architecture reviews, digital transformation, AI adoption, software modernization,\nand engineering process improvement.\nManaged Services",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "Managed Services\nSelected enterprise customers receive application maintenance, monitoring, incident response, and technical\nsupport.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 4
+    }
+  },
+  {
+    "page_content": "4. Products\nNovaFlow\nA workflow automation platform for approvals, task routing, business process automation, notifications, and\nworkflow analytics.\nNovaAI\nAn artificial intelligence platform providing document processing, semantic search, question answering, machine\nlearning APIs, and generative AI capabilities.\nNovaInsight\nA business analytics platform providing dashboards, scheduled reports, metrics, data exploration, and role-based\nanalytics access.\nNovaCloud",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 5
+    }
+  },
+  {
+    "page_content": "analytics access.\nNovaCloud\nA cloud management and deployment platform used for application environments, deployment automation,\nmonitoring, and infrastructure operations.\nNovaDesk\nA customer support and ticket management product for service requests, incidents, knowledge articles, and\nsupport analytics.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 5
+    }
+  },
+  {
+    "page_content": "5. Technology Stack\nProgramming Languages\nPython, Java, JavaScript, TypeScript, SQL, and Dart are commonly used across teams.\nFrontend\nReact, Next.js, TypeScript, HTML, CSS, and modern component libraries.\nBackend\nDjango, Django REST Framework, FastAPI, Node.js, Express, and Java-based services.\nDatabases\nPostgreSQL is the primary relational database. MySQL and MongoDB are used for selected applications.\nCaching",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 6
+    }
+  },
+  {
+    "page_content": "Caching\nRedis is used for caching, session storage, rate limiting, and background job coordination.\nAI and ML\nPython, PyTorch, TensorFlow, scikit-learn, Hugging Face models, vector databases, embedding models, and large\nlanguage model APIs.\nRAG Technologies\nDocument loaders, text splitters, embeddings, vector similarity search, metadata filtering, retrieval pipelines, prompt\ntemplates, and LLM generation.\nDevOps",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 6
+    }
+  },
+  {
+    "page_content": "templates, and LLM generation.\nDevOps\nGit, GitHub, Docker, Kubernetes, CI/CD pipelines, Linux, cloud infrastructure, logging, monitoring, and automated\ntesting.\nAPIs\nREST APIs and GraphQL APIs are used for application integration. Internal services use authenticated API access.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 6
+    }
+  },
+  {
+    "page_content": "6. Departments\nEngineering\nFrontend, backend, mobile, platform, DevOps, QA, and software architecture teams.\nArtificial Intelligence\nMachine learning, NLP, generative AI, computer vision, data science, and AI platform teams.\nProduct\nProduct managers and analysts define product requirements, roadmaps, user stories, and product metrics.\nHuman Resources\nRecruitment, onboarding, employee records, learning, performance management, and employee engagement.\nFinance",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 7
+    }
+  },
+  {
+    "page_content": "Finance\nAccounting, payroll coordination, budgeting, procurement, invoicing, and financial reporting.\nSales\nCustomer acquisition, enterprise accounts, proposals, and sales operations.\nMarketing\nBranding, content, events, campaigns, product communication, and digital marketing.\nCustomer Success\nCustomer onboarding, adoption, support coordination, renewals, and customer feedback.\nInformation Security",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 7
+    }
+  },
+  {
+    "page_content": "Information Security\nSecurity policies, access control, vulnerability management, incident response, and security awareness.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 7
+    }
+  },
+  {
+    "page_content": "7. Office Locations\nKochi\nHeadquarters and primary AI and platform engineering center.\nBengaluru\nEngineering, enterprise delivery, and technology operations.\nPune\nSoftware engineering, QA, and customer delivery teams.\nOffice Hours\nStandard office hours are 9:30 AM to 6:30 PM, Monday through Friday.\nCore Collaboration Hours\n10:30 AM to 4:30 PM.\nWork Model\nHybrid work is available for eligible employees and teams.\nRemote Work",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 8
+    }
+  },
+  {
+    "page_content": "Remote Work\nEligible employees may work remotely up to two days per week. New employees generally work from the office\nduring their first four weeks unless an exception is approved.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 8
+    }
+  },
+  {
+    "page_content": "8. Fresher and Entry-Level Careers\nEligible Qualifications\nComputer Science, Information Technology, Computer Engineering, Electronics, and other relevant technical\ndegrees or equivalent qualifications may be considered.\nTypical Fresher Roles\nSoftware Engineer, Python Developer, Java Developer, Frontend Developer, Full-Stack Developer, QA Engineer,\nData Analyst, AI/ML Engineer, Cloud Engineer, and Technical Support Engineer.\nGeneral Skills",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 9
+    }
+  },
+  {
+    "page_content": "General Skills\nProgramming fundamentals, object-oriented programming, databases, SQL, Git, problem solving, communication,\ndebugging, and basic software development concepts.\nFresher Training\nSelected engineering freshers complete a 12-week training program.\nTraining Weeks 1–4\nProgramming fundamentals, OOP, SQL, databases, Git, debugging, software development lifecycle, and\nengineering practices.\nTraining Weeks 5–8",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 9
+    }
+  },
+  {
+    "page_content": "engineering practices.\nTraining Weeks 5–8\nFrontend, backend, REST APIs, authentication, testing, and application development.\nTraining Weeks 9–12\nTeam project, code reviews, deployment, monitoring, documentation, and final evaluation.\nHiring Process\nTypical process: online assessment, technical interview, practical coding or project discussion, and HR interview.\nInternship Duration\nMost internships last between 8 and 16 weeks.\nFresher Growth",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 9
+    }
+  },
+  {
+    "page_content": "Fresher Growth\nA typical progression is Graduate Engineer → Software Engineer → Senior Software Engineer → Technical Lead\nor Engineering Manager, depending on performance and career interests.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 9
+    }
+  },
+  {
+    "page_content": "9. Employee Working Policies\nWorking Hours\n9:30 AM to 6:30 PM, Monday through Friday, normally including a one-hour lunch break.\nAttendance\nEmployees should maintain accurate attendance records and communicate planned absences to their manager.\nFlexible Scheduling\nCertain teams may use approved flexible schedules based on customer and project requirements.\nHybrid Policy\nEligible employees can work remotely up to two days each week.\nProbation",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 10
+    }
+  },
+  {
+    "page_content": "Probation\nNew employees normally have a six-month probation period unless their employment agreement specifies\notherwise.\nNotice Period\nThe standard notice period is 60 days unless a different period is specified in the employee's employment\nagreement.\nOvertime\nWork beyond normal hours should be planned and approved when required by project or customer commitments.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 10
+    }
+  },
+  {
+    "page_content": "10. Leave and Holidays\nAnnual Paid Leave\n24 days per calendar year for full-time employees.\nSick Leave\n10 days per calendar year.\nPublic Holidays\n12 company holidays are observed each year.\nCasual Leave\nCasual leave may be granted according to the applicable employee policy and manager approval.\nParental Leave\nEligible employees may receive parental leave according to company policy and applicable law.\nLeave Request",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 11
+    }
+  },
+  {
+    "page_content": "Leave Request\nPlanned leave should normally be submitted at least three working days in advance.\nEmergency Leave\nEmployees should inform their manager as soon as reasonably possible.\nHoliday Calendar\nHuman Resources publishes the annual holiday calendar before the beginning of each year.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 11
+    }
+  },
+  {
+    "page_content": "11. Compensation and Benefits\nSalary Review\nPerformance and salary reviews normally occur once each year.\nPerformance Bonus\nEligible employees may receive an annual performance bonus based on individual, team, and company\nperformance. It is not guaranteed.\nHealth Insurance\nEligible full-time employees can enroll in company-sponsored health insurance.\nLearning Allowance\nEmployees can claim up to INR 15,000 per calendar year for approved courses, books, certifications, and learning\nresources.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 12
+    }
+  },
+  {
+    "page_content": "resources.\nRetirement Benefits\nEligible employees receive statutory retirement and social security benefits according to applicable Indian\nregulations.\nEmployee Recognition\nTechNova may provide quarterly recognition awards for exceptional technical contributions, customer impact,\ninnovation, or teamwork.\nPayroll\nSalary is processed monthly through the company's payroll system.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 12
+    }
+  },
+  {
+    "page_content": "12. Recruitment FAQs\nDoes TechNova hire freshers?\nYes. TechNova recruits freshers for software engineering, QA, data, AI/ML, cloud, and support roles when\nopenings are available.\nWhat is the typical fresher hiring process?\nOnline assessment, technical interview, practical coding or project discussion, and HR interview.\nWhat should a fresher prepare?\nProgramming, OOP, SQL, DBMS, data structures, basic web development, Git, APIs, project knowledge, and\ncommunication.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 13
+    }
+  },
+  {
+    "page_content": "communication.\nIs prior work experience required for fresher roles?\nNo. Fresher roles are designed for candidates with limited or no professional experience, although internships and\nprojects are useful.\nAre internships available?\nYes. TechNova offers software engineering and AI internships depending on business requirements.\nHow long is fresher training?\nThe standard engineering training program lasts 12 weeks.\nCan freshers work remotely?",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 13
+    }
+  },
+  {
+    "page_content": "Can freshers work remotely?\nEligible employees may work remotely up to two days per week, subject to team policy.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 13
+    }
+  },
+  {
+    "page_content": "13. Engineering Practices\nVersion Control\nGit is used for source code version control.\nBranching\nTeams generally use feature branches and pull requests for changes.\nCode Review\nProduction code normally requires at least one peer review before merging.\nTesting\nProjects are expected to include appropriate unit, integration, API, or end-to-end tests.\nDocumentation\nImportant services should have setup instructions, API documentation, architecture information, and operational\nnotes.\nDeployment",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 14
+    }
+  },
+  {
+    "page_content": "notes.\nDeployment\nApplications are deployed through controlled development, testing, and production environments.\nMonitoring\nProduction services should have appropriate logging, health checks, error monitoring, and performance monitoring.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 14
+    }
+  },
+  {
+    "page_content": "14. Security and Data Protection\nCredentials\nPasswords, API keys, access tokens, and database credentials must never be committed to public repositories.\nAccess Control\nEmployees receive only the access required for their role and project responsibilities.\nConfidential Information\nCustomer data, source code, product plans, credentials, financial information, and non-public business information\nare confidential.\nData Handling",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 15
+    }
+  },
+  {
+    "page_content": "are confidential.\nData Handling\nSensitive information must only be stored and processed in approved systems.\nAI Tool Usage\nConfidential company or customer data must not be submitted to an AI service unless that service is approved for\nthe relevant data.\nSecurity Incidents\nSuspected security incidents must be reported immediately through the internal security reporting process.\nDevice Security\nCompany devices should use screen locks, approved security software, and current security updates.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 15
+    }
+  },
+  {
+    "page_content": "15. AI and Responsible AI Policy\nApproved AI Use\nAI tools may be used for code assistance, documentation, research, testing, summarization, and approved\nbusiness workflows.\nConfidentiality\nSensitive company or customer information must not be entered into unapproved AI systems.\nHuman Oversight\nHigh-impact AI outputs should be reviewed by qualified employees before being used for business decisions.\nAccuracy\nAI-generated information should be verified when accuracy is important.\nBias and Fairness",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 16
+    }
+  },
+  {
+    "page_content": "Bias and Fairness\nAI systems should be evaluated for inappropriate bias and harmful outcomes where relevant.\nRAG Systems\nRAG applications should retrieve relevant source material, preserve source metadata, and avoid presenting\nunsupported claims as facts.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 16
+    }
+  },
+  {
+    "page_content": "16. Customer Support\nSupport Channels\nCustomers can submit support requests through the customer portal or approved support channels.\nPriority Levels\nTickets are categorized as Critical, High, Medium, or Low based on business impact and urgency.\nCritical Issue\nA production outage or severe issue affecting a major business function.\nHigh Issue\nA significant degradation or issue affecting an important business function.\nMedium Issue\nA limited issue with an available workaround.\nLow Issue",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 17
+    }
+  },
+  {
+    "page_content": "Low Issue\nGeneral questions, minor defects, documentation requests, or low-impact issues.\nSupport Hours\nStandard support operates during business hours. Enterprise customers may have separate support agreements.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 17
+    }
+  },
+  {
+    "page_content": "17. Projects and Internal Initiatives\nAI Knowledge Assistant\nAn internal RAG-based assistant can retrieve information from approved company documents and answer\nemployee questions with source references.\nDeveloper Productivity\nTechNova invests in CI/CD automation, developer tooling, reusable components, and engineering documentation.\nCloud Modernization\nThe company is gradually moving suitable workloads toward containerized and cloud-native architectures.\nLearning Program",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 18
+    }
+  },
+  {
+    "page_content": "Learning Program\nEmployees are encouraged to complete technical courses, internal workshops, and professional certifications.\nInnovation Program\nEmployees can propose internal prototypes and proof-of-concept projects through the quarterly innovation\nprogram.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 18
+    }
+  },
+  {
+    "page_content": "18. Frequently Asked Facts for RAG Testing\nWho founded TechNova?\nSreehari V S founded TechNova Solutions Pvt. Ltd. in 2019.\nWhen was TechNova founded?\n2019.\nWhere is the headquarters?\nKochi, Kerala, India.\nWho is the CEO?\nSreehari V S is the Founder and CEO.\nWhat is NovaAI?\nNovaAI is TechNova's artificial intelligence platform.\nWhat is NovaFlow?\nNovaFlow is the company's workflow automation platform.\nHow many annual paid leaves are provided?\n24 days per calendar year.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 19
+    }
+  },
+  {
+    "page_content": "24 days per calendar year.\nHow much sick leave is provided?\n10 days per calendar year.\nHow many remote days are allowed?\nEligible employees may work remotely up to two days per week.\nHow long is fresher training?\n12 weeks.\nWhat is the standard notice period?\n60 days unless the employment agreement specifies otherwise.\nWhat is the learning allowance?\nUp to INR 15,000 per calendar year for approved learning expenses.\nWhat are standard working hours?\n9:30 AM to 6:30 PM, Monday through Friday.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 19
+    }
+  },
+  {
+    "page_content": "9:30 AM to 6:30 PM, Monday through Friday.\nHow many hiring stages are typical?\nFour stages: online assessment, technical interview, practical coding/project discussion, and HR interview.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 19
+    }
+  },
+  {
+    "page_content": "19. Information Boundaries\nCEO Salary\nThe handbook does not provide the CEO's salary.\nIndividual Salary\nThe handbook does not provide individual employee salaries.\nCustomer Confidential Data\nNo customer confidential data is contained in this knowledge base.\nRevenue\nNo financial revenue figures are provided.\nStock Price\nTechNova's stock price is not provided.\nCorporate Registration Number\nNo corporate registration number is provided.\nPrivate Founder Contact Details",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 20
+    }
+  },
+  {
+    "page_content": "Private Founder Contact Details\nNo personal phone number, home address, or private contact information for Sreehari V S is included.\nUnlisted Policies\nIf a user asks about a policy not contained in this handbook, the RAG assistant should state that the information is\nnot available in the provided knowledge base rather than inventing it.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 20
+    }
+  },
+  {
+    "page_content": "20. RAG Grounding Rules\nAuthoritative Source\nFor this project, this handbook is the authoritative company knowledge source.\nAnswer Policy\nThe assistant should answer using information retrieved from this document.\nUnknown Questions\nIf the retrieved context does not contain the answer, the assistant should say that the information is not available in\nthe provided company knowledge base.\nNo Hallucination\nThe assistant should not invent company facts simply because a question sounds plausible.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 21
+    }
+  },
+  {
+    "page_content": "Source References\nThe application should preserve document metadata and, where possible, display the page or section used to\nanswer a question.\nMultiple Sources\nWhen multiple chunks are relevant, the assistant may combine them while keeping the answer grounded in\nretrieved content.\nRAG Evaluation\nThe application should be tested with questions whose answers are in the document and questions whose answers\nare intentionally absent.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 21
+    }
+  },
+  {
+    "page_content": "21. Document Metadata\nDocument Name\nTechNova Solutions Pvt. Ltd. — Master Company Knowledge Base\nVersion\n3.0\nYear\n2026\nCompany\nTechNova Solutions Pvt. Ltd.\nFounder\nSreehari V S\nProject Owner\nSreehari V S\nPrimary Purpose\nKnowledge source for an AI-powered RAG company assistant.\nExpected Retrieval\nSemantic similarity retrieval over document chunks.\nExpected Generation\nGrounded responses generated from retrieved company information.",
+    "metadata": {
+      "source": "TechNova_Company_Master_Knowledge_Base.pdf",
+      "page": 22
+    }
+  }
+]
